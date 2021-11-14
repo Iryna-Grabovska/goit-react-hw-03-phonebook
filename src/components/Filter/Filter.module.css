@@ -1,0 +1,13 @@
+.filterLabel {
+  /* border: 2px solid rgb(46, 46, 131); */
+  color: rgb(46, 46, 131);
+  font-weight: 500;
+  /* border-radius: 5px; */
+}
+.filterInput {
+  margin-left: 10px;
+  border: 2px solid rgb(46, 46, 131);
+  color: rgb(46, 46, 131);
+  font-weight: 500;
+  border-radius: 5px;
+}

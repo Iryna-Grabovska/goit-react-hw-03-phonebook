@@ -1,0 +1,21 @@
+.contactListBtn {
+  width: 60px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid red;
+  color: red;
+  cursor: pointer;
+  margin-left: 30px;
+}
+.contactListBtn:hover {
+  background-color: red;
+  color: white;
+}
+.contactsListItem {
+  margin-top: 10px;
+  /* border: 2px solid rgb(46, 46, 131); */
+  color: rgb(46, 46, 131);
+  font-weight: 500;
+  /* border-radius: 5px; */
+}

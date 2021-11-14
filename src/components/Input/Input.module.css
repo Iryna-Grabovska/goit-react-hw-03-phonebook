@@ -1,0 +1,16 @@
+.nameLabel {
+  color: rgb(46, 46, 131);
+  font-weight: 500;
+  display: flex;
+  padding-top: 20px;
+  flex-direction: column;
+  font-size: 18px;
+}
+.contactsInput {
+  width: 180px;
+  margin-top: 10px;
+  border: 2px solid rgb(46, 46, 131);
+  color: rgb(46, 46, 131);
+  border-radius: 5px;
+  /* box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.322); */
+}
